@@ -78,20 +78,18 @@ export const ADMIN_NAV = FLOOR_NAV;
 
 export const PUBLIC_TABS: NavLink[] = [
   { to: "/", label: "House" },
-  { to: "/collection", label: "Collection" },
+  { to: "/collection", label: "Book" },
   { to: "/order", label: "Order" },
 ];
 
 export const SALES_TABS: NavLink[] = [
   { to: "/floor", label: "Floor" },
-  { to: "/collection", label: "Collection" },
   { to: "/capture", label: "Capture" },
   { to: "/order", label: "Order" },
 ];
 
 export const FLOOR_TABS: NavLink[] = [
   { to: "/floor", label: "Floor" },
-  { to: "/collection", label: "Collection" },
   { to: "/capture", label: "Capture" },
   { to: "/build", label: "Build" },
 ];
