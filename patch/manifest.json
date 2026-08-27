@@ -1,0 +1,22 @@
+{
+  "files": [
+    ["src/lib/access.ts", "access.ts"],
+    ["src/lib/desk.server.ts", "desk.server.ts"],
+    ["src/lib/store.ts", "store.ts"],
+    ["src/lib/copy.ts", "copy.ts"],
+    ["src/lib/memory.ts", "memory.ts"],
+    ["src/lib/orders.ts", "orders.ts"],
+    ["src/lib/orders.server.ts", "orders.server.ts"],
+    ["src/lib/house-orders.ts", "house-orders.ts"],
+    ["src/routes/desk.tsx", "desk.tsx"],
+    ["src/routes/floor.tsx", "floor.tsx"],
+    ["src/routes/index.tsx", "index.tsx"],
+    ["src/routes/order.tsx", "order.tsx"],
+    ["src/routes/thanks.tsx", "thanks.tsx"],
+    ["src/routes/leads.$id.tsx", "leads.$id.tsx"],
+    ["src/routes/invoices.$id.tsx", "invoices.$id.tsx"],
+    ["src/components/shell.tsx", "shell.tsx"],
+    ["src/components/staff-gate.tsx", "staff-gate.tsx"],
+    ["migrations/0003_order_paid.sql", "0003_order_paid.sql"]
+  ]
+}
